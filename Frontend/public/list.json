@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "name":"stroy book",
+        "title":"IIIT L",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?t=st=1727465512~exp=1727469112~hmac=9c2c711c1810297b01f3e1a7de503841d819f22940d07476f030704ea5979d52&w=740"
+   },
+   {
+    "id":2,
+    "name":"comedy book",
+    "title":"IIIT L",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?t=st=1727465512~exp=1727469112~hmac=9c2c711c1810297b01f3e1a7de503841d819f22940d07476f030704ea5979d52&w=740"
+  },
+  {
+    "id":3,
+    "name":"drama book",
+    "title":"IIIT L",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?t=st=1727465512~exp=1727469112~hmac=9c2c711c1810297b01f3e1a7de503841d819f22940d07476f030704ea5979d52&w=740"
+  },
+  {
+    "id":4,
+    "name":"music book",
+    "title":"IIIT L", 
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?t=st=1727465512~exp=1727469112~hmac=9c2c711c1810297b01f3e1a7de503841d819f22940d07476f030704ea5979d52&w=740"
+  },
+  {
+    "id":5,
+    "name":"history book",
+    "title":"IIIT L", 
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?t=st=1727465512~exp=1727469112~hmac=9c2c711c1810297b01f3e1a7de503841d819f22940d07476f030704ea5979d52&w=740"
+  }
+ 
+]
