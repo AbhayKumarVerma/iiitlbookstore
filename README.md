@@ -36,28 +36,25 @@ Follow the steps below to set up the **IIIT Lucknow Bookstore** on your local ma
 
    Install Dependencies:
 
-bash
+```bash
 
 npm install   # Installs both frontend and backend dependencies
 Set Up Environment Variables:
 
-bash
+```bash
 
 cp .env.example .env   # Copy the example environment file
 Now, open .env and fill in the required configurations (e.g., MongoDB URI, JWT secret).
 
 Run the Application:
 
-bash
+```bash
 
 npm run dev   # Runs both frontend and backend
 Access the App: Once the server is running, open your browser and go to:
 
 
 http://localhost:3000
+
+
 Thank you for using the IIIT Lucknow Bookstore! 🎉
-
-css
-
-
-This markdown includes headings, features, tech stack, installation guide, contributing g
